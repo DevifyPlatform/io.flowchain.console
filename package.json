@@ -9,9 +9,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flowchain/flowchain-console.git"
+    "url": "git+https://github.com/flowchain/io.flowchain.console.git"
   },
-  "homepage": "https://github.com/flowchain/flowchain-console.git",
+  "homepage": "https://github.com/flowchain/io.flowchain.console.git",
   "dependencies": {
     "wotcity.io": "^0.8.13"
   },
