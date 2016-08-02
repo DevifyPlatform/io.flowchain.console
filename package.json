@@ -1,0 +1,21 @@
+{
+  "name": "flowchain-console",
+  "version": "0.1.0",
+  "description": "Print messages on the console.",
+  "keywords": [
+    "iot"
+  ],
+  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowchain/flowchain-console.git"
+  },
+  "homepage": "https://github.com/flowchain/flowchain-console.git",
+  "dependencies": {
+    "wotcity.io": "^0.8.13"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "license": "MIT License"
+}
