@@ -1,5 +1,5 @@
 {
-  "name": "flowchain-console",
+  "name": "io.flowchain.console",
   "version": "0.1.0",
   "description": "Print messages on the console.",
   "keywords": [
