@@ -36,7 +36,7 @@ var wotcity = require('wotcity.io');
 exports.getComponent = function() {
   var component = new wotcity.Component;
 
-  component.name = "io.devify.console";
+  component.name = "io.flowchain.console";
   component.description = "This component prints the received data on the console.";
 
   // Register ports and event handlers
